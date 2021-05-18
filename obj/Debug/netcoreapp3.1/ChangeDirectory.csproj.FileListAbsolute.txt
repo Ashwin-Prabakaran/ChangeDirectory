@@ -1,0 +1,13 @@
+C:\Users\Ashwin\source\repos\ChangeDirectory\obj\Debug\netcoreapp3.1\ChangeDirectory.csprojAssemblyReference.cache
+C:\Users\Ashwin\source\repos\ChangeDirectory\obj\Debug\netcoreapp3.1\ChangeDirectory.AssemblyInfoInputs.cache
+C:\Users\Ashwin\source\repos\ChangeDirectory\obj\Debug\netcoreapp3.1\ChangeDirectory.AssemblyInfo.cs
+C:\Users\Ashwin\source\repos\ChangeDirectory\obj\Debug\netcoreapp3.1\ChangeDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Ashwin\source\repos\ChangeDirectory\bin\Debug\netcoreapp3.1\ChangeDirectory.exe
+C:\Users\Ashwin\source\repos\ChangeDirectory\bin\Debug\netcoreapp3.1\ChangeDirectory.deps.json
+C:\Users\Ashwin\source\repos\ChangeDirectory\bin\Debug\netcoreapp3.1\ChangeDirectory.runtimeconfig.json
+C:\Users\Ashwin\source\repos\ChangeDirectory\bin\Debug\netcoreapp3.1\ChangeDirectory.runtimeconfig.dev.json
+C:\Users\Ashwin\source\repos\ChangeDirectory\bin\Debug\netcoreapp3.1\ChangeDirectory.dll
+C:\Users\Ashwin\source\repos\ChangeDirectory\bin\Debug\netcoreapp3.1\ChangeDirectory.pdb
+C:\Users\Ashwin\source\repos\ChangeDirectory\obj\Debug\netcoreapp3.1\ChangeDirectory.dll
+C:\Users\Ashwin\source\repos\ChangeDirectory\obj\Debug\netcoreapp3.1\ChangeDirectory.pdb
+C:\Users\Ashwin\source\repos\ChangeDirectory\obj\Debug\netcoreapp3.1\ChangeDirectory.genruntimeconfig.cache
